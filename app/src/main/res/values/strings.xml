@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Real Madrid C.F</string>
+    <string name="name">Name</string>
+    <string name="national">National</string>
+    <string name="join">Join</string>
+    <string name="position">Position</string>
+    <string name="born">Born</string>
+    <string name="title">Player</string>
+    <string name="todo">TODO</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="fullname">Fullname</string>
+    <string name="profileName">Yus Subakti</string>
+    <string name="email">yus.subakti@gmail.com</string>
+    <string name="real_madrid_apps">REAL MADRID APPS</string>
+</resources>
